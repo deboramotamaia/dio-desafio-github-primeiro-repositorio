@@ -1,0 +1,22 @@
+# Blobs/ Trees/Commit
+
+Blobs: arquivos são armazenados nela, tipo de arquivo, SHA1
+
+Tree: possuem metadados, armazenam blobs e apontando para tipos de blobs diferentes e commit's diferentes, ShA1, nome do arquivo , podem apontar para outras árvores.
+
+Commit: Objeto que junta as blobs e árvores, toda mudança de um repositorio ou arquivo é representado por um commit (add *, commit -m "inserir comentario")
+
+
+
+## Primeiros Passos no Git/GitHub
+
+- criar uma conta no GitHub
+- configurar user.name e user.email
+- criar repositório (colocar nome, publico, e readme )
+- criar um arquivo para push no github 
+- usar comandos para inserir nosso arquivo no modo remoto 
+- (git remote add origin)
+
+## Conflitos no Git
+
+- Pode haver conflitos no GitHub, como duas pessoas alterando o mesmo código e mesma linha, o git já da uma solução que é baixar o ultimo código alterado e analisar o erro e alterar o código manualmente para deixar certo e mandar de volta para a plataforma com o código corrigido.

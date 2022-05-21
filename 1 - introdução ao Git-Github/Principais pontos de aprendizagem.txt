@@ -1,0 +1,14 @@
+# O que é Git/GitHub?:desktop_computer:
+
+- Git: é um programa para versionamento de códigos de todo seu sistema de maneira segura e distribuída.
+
+- GitHub: é o servidor (plataforma) que ira armazenar e compartilhar seu código-fonte com controle de versão usando o Git 
+
+  #### Importância do GitHub em uma empresa
+
+  Ele é uma ótima ferramenta para o trabalho em equipe, porque possibilita que vários dev's trabalhem no mesmo código, para a criação de softwares que é criado em conjunto, facilitando a gestão do projeto.
+
+   
+
+  
+

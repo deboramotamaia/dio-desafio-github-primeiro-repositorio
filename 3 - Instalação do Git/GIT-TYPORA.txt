@@ -1,0 +1,17 @@
+# INSTALAÇÃO DO GIT E TYPORA (WINDOWS)
+
+- [Git - Pacote de Download (git-scm.com)](https://git-scm.com/download/win)
+
+- INSTALAR CHAVES SSH E TOKEN
+
+- SISTEMA DE SEGURANÇA
+
+- SISTEMA DISTRIBUIDO 
+
+- SHA1 (algoritmo de encriptação, gera conjunto de com 40 caractere cada mudança de commit ele muda o sha1 se reverter a mudança ele volta para o primeiro sha1)
+
+- [Typora — um editor de marcação, leitor de marcação.](https://typora.io/)
+
+  
+
+  

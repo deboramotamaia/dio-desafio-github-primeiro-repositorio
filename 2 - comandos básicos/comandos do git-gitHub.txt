@@ -1,0 +1,17 @@
+# Comandos Básicos
+
+
+
+- A forma de comunicação do Git é CLI (linha de comando).
+
+- mkdir = criar pastas 
+
+- dir/ls = listar pastas
+
+- cd .. = retornar entre as pastas 
+
+- cd  = navegar entre as pastas
+
+- clear/ctrl + l = limpar o terminal
+
+  
